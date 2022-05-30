@@ -5,11 +5,11 @@ Please note: The full repository containing all host application and Arduino cod
 
 The FODS Capstone team included members:
 
-Shelby Herle – Project Manager
-Peter Boonstra – Hardware Lead
-Nikhil Naikar – Firmware Lead
-Nooreldeen Abdallah – Integration / Testing Lead
-Patrick Willmann – Software Lead (author of the React Native app)
+<p>Shelby Herle – Project Manager</p>
+<p>Peter Boonstra – Hardware Lead</p>
+<p>Nikhil Naikar – Firmware Lead</p>
+<p>Nooreldeen Abdallah – Integration / Testing Lead</p>
+<p>Patrick Willmann – Software Lead (author of the React Native app)</p>
 
 Our team, upon identifying that fires started by overheating farming equipment is a significant issue, sought to develop a full Internet of Things (IOT) system that could alert farmers to dangerously high temperatures capable of starting a fire on their equipment. Fully wireless temperature sensors were prototyped, each of which wirelessly sends temperature and location data to a PC host application, which transmits the data to an AWS database, all of which this React Native app displays to the user.  
 
