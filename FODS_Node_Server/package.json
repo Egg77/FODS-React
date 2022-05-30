@@ -1,0 +1,15 @@
+{
+  "name": "fods_node_server",
+  "version": "1.0.0",
+  "description": "Node Backend for FODS Mobile React Native App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrick Robert Willmann",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mysql2": "^2.3.3"
+  }
+}
